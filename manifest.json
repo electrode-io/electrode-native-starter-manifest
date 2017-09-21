@@ -1,0 +1,9 @@
+[
+  {
+    "platformVersion": "0.x",
+    "targetNativeDependencies": [
+    ],
+    "targetJsDependencies": [
+    ]
+  }
+]
