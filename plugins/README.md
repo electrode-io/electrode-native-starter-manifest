@@ -8,4 +8,4 @@ You can also have a look to [Electrode React Native Master Manifest] repository.
 
 [Electrode React Native Master Manifest]: https://github.com/electrode-io/electrode-react-native-manifest
 
-[Reusing existing native modules]: https://github.com/electrode-io/electrode-react-native/blob/master/docs/platform-parts/manifest.md#reusing-exiting-native-modules
+[Reusing existing native modules]: https://github.com/electrode-io/electrode-native/blob/master/docs/platform-parts/manifest/native-modules.md
