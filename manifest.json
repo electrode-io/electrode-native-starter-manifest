@@ -1,9 +1,8 @@
-[
-  {
-    "platformVersion": "0.x",
+{
+  "default": {
     "targetNativeDependencies": [
     ],
     "targetJsDependencies": [
     ]
   }
-]
+}
